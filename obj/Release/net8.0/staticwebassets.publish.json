@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RFV4+pv9Gfr5ezAUpCDWgOv0sD+AF4t3TXloSdXFOdY=",
+  "Source": "northwind",
+  "BasePath": "_content/northwind",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
